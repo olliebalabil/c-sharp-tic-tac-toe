@@ -1,0 +1,14 @@
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\bin\Debug\net8.0\tic-tac-toe-c#.exe
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\bin\Debug\net8.0\tic-tac-toe-c#.deps.json
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\bin\Debug\net8.0\tic-tac-toe-c#.runtimeconfig.json
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\bin\Debug\net8.0\tic-tac-toe-c#.dll
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\bin\Debug\net8.0\tic-tac-toe-c#.pdb
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.AssemblyInfoInputs.cache
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.AssemblyInfo.cs
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.csproj.CoreCompileInputs.cache
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.dll
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\refint\tic-tac-toe-c#.dll
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.pdb
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\tic-tac-toe-c#.genruntimeconfig.cache
+C:\Users\obala\Desktop\coding-projects\tic-tac-toe-c#\obj\Debug\net8.0\ref\tic-tac-toe-c#.dll
